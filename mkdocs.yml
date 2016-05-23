@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: Thebwt.com
+theme: cyborg
+pages:
+        - Home: index.md
+        - Work: work.md
+        - Hobby: hobby.md
