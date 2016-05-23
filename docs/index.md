@@ -1,17 +1,15 @@
-# Welcome to MkDocs
+# Howdy!
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+My name is Brandon Tomlinson, I'm a Linux Systems Engineer over at Rackspace.
 
-## Commands
+## Profile things
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+* Github link - My personal github account. Mainly docker stuff, some python in there too.
+* Linkedin link - My Linkedin profile, because resumes are passe.
+* Twitter Link - Because Trendy?
+* Fourth link - Because I am just trying to match the default mkdocks bullet points, and personally challenged to find 4 links that pertain to myself...
 
-## Project layout
+## About Me
+Because Do I really need to put that on different page?
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+So life story I guess?
