@@ -1,5 +1,5 @@
 site_name: Thebwt.com
-theme: cyborg
+theme: slate
 pages:
         - Home: index.md
         - Work: work.md
