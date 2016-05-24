@@ -4,3 +4,5 @@ pages:
         - Home: index.md
         - Work: work.md
         - Hobby: hobby.md
+        - Guides:
+                - Mumbles and Django-Mumble with Docker and Carina: mumble-carina-tutorial.md
